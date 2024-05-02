@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anchalj7
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Java.
+- 😄 Pronouns: she/her.
