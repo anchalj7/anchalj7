@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anchalj7
+- 👋 Hi, I’m Anchal Jaiswal.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java.
 - 😄 Pronouns: she/her.
