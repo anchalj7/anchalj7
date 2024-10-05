@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anchal Jaiswal.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning React / Next.js.
 - 😄 Pronouns: she/her.
